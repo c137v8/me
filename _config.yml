@@ -73,8 +73,8 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      show: true
+      href: https://www.linkedin.com/in/cv8/
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
