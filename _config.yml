@@ -174,13 +174,13 @@ links:
   - publickey:
       name: PGP Key
       show: true
-      href: https://pastebin.com/raw/y5YHVtN9
+      href: https://pastebin.com/raw/tMVjvdUe
       icon: fas fa-key
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Im in a bad mood 😠
+    Im in a bad mood >:(
 
 #EOF
